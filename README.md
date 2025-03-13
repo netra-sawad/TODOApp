@@ -21,8 +21,8 @@ You can use the app live by visiting:
    - Select the due date ( if required, it is optional.)
    - Click the "Add Task" button to add it to the list.
 2. **Change the status of Task**:
-   - Change the task status on clicking the change status button.
+   - Change the task status on click the change status button.
 3. **Edit task**:
-   - Edit the task on clicking the Edit button.
+   - Edit the task on click the Edit button.
 4. **Delete task**:
-   - Delete either the whole task or single task on clicking the Delete All Tasks or Delete button.
+   - Delete either the whole task or single task on click the Delete All Tasks or Delete button.
